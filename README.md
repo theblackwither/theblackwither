@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=thepiyushmalhotra&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **theblackwither/theblackwither** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
