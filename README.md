@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **theblackwither/theblackwither** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
