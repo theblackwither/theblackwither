@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=thepiyushmalhotra&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theblackwither/theblackwither/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theblackwither/theblackwither/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theblackwither/theblackwither/output/github-contribution-grid-snake.svg">
+</picture>
 <!--
 **theblackwither/theblackwither** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
